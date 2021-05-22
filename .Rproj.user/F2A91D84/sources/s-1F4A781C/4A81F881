@@ -1,0 +1,27 @@
+{
+    "id": "4A81F881",
+    "path": "D:/KK/github/coronavirus_nintendo/定数項ダミーと係数ダミーによる構造変化の検定.R",
+    "project_path": "定数項ダミーと係数ダミーによる構造変化の検定.R",
+    "type": "r_source",
+    "hash": "3473091781",
+    "contents": "",
+    "dirty": false,
+    "created": 1621653880366.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1621661788,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1621661788595,
+    "read_only": false,
+    "read_only_alternatives": []
+}

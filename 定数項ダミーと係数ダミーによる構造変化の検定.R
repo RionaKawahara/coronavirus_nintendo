@@ -1,0 +1,8 @@
+data1 <- read.table("(10)1keisu.csv",header = TRUE, sep =",")
+data1
+plot(data1$X, data1$Y,xlab="X",ylab="Y",main="係数ダミー(+定数項ダミー)")
+fm0 <- lm(Y ~ X, data = data1)
+abline(fm0)
+summary(fm0)
+fm1 <- lm(Y ~ X + D + DX, data = data1)
+summary(fm1)
